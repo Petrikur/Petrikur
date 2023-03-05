@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <hr>
 
 
-Languages: <br><br>
+Languages and web: <br><br>
  <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
