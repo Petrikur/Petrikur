@@ -46,6 +46,7 @@ Cloud:
 </span>
 
 Tools and Technologies : 
+
 <span><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />  
@@ -62,6 +63,7 @@ Tools and Technologies :
   </span>
   
   Food: 
+
   <span><img src = "https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
   <img src = "https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" />
 </span>
